@@ -1,11 +1,9 @@
-# 💌 Journal
+# 👩🏻‍💻 TIL (Today I Learned)
 
 ## 🚀 Goal
 
 ## 🔥 Rules
 
 ## 📂 Directory Structure
-
-## 📝 Template
 
 ## 💬 Commit Convention
